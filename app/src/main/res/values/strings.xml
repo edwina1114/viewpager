@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">viewpager</string>
+    <string name="soup">Soup</string>
+    <string name="rice">Rice</string>
+    <string name="noodles">Noodles</string>
+    <string name="meat">Meat</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="dessert">Dessert</string>
+    <string name="fruit">Fruit</string>
+</resources>
