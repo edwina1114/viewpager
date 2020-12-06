@@ -1,8 +1,9 @@
-package com.example.viewpager
+package com.example.viewpager.adapter
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
+import com.example.viewpager.food_fragment.*
 
 class Adapter(fragmentManager: FragmentManager) : FragmentPagerAdapter(fragmentManager)  {
     override fun getItem(position: Int): Fragment {

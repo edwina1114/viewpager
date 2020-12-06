@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.viewpager.widget.ViewPager
+import com.example.viewpager.adapter.Adapter
 import com.google.android.material.tabs.TabLayout
 
 class MainActivity : AppCompatActivity() {
